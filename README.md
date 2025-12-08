@@ -1,6 +1,7 @@
 # Sash's Macropad
 Its a cool tiny keyboard meant to be used to play story based games! It also has an oled to display whatever you want!This is how it would look irl once its finished! 
-<img width="994" height="768" alt="Screenshot 2025-12-08 201108" src="https://github.com/user-attachments/assets/d51b5863-ba3a-4c01-973d-50990da7ce8f" />
+<img width="1016" height="651" alt="Screenshot 2025-12-08 214806" src="https://github.com/user-attachments/assets/45b95c05-28cb-4d1f-b301-e4dfe2f87511" />
+
 I think it kinda looks like a calculator but its still insanely cool!!
 
 ## Inspo
