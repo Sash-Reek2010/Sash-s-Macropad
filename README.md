@@ -24,14 +24,14 @@ The Schematic!
 The PCB! I also included a silkscreen image of my favourite JJBA Character! Im really excited to see it in person!!!!!!
 
 ## BOM
--This is everything I used to make it!
--6x Cherry MX Switches
--6x DSA Keycaps
--4x M3x16mm SHCS Bolts
--6x WS2812B LEDs
--1x 0.91" 128x32 OLED Display
--1x XIAO RP2040
--1x Case (2 3D Printed parts)
+- This is everything I used to make it!
+- 6x Cherry MX Switches
+- 6x DSA Keycaps
+- 4x M3x16mm SHCS Bolts
+- 6x WS2812B LEDs
+- 1x 0.91" 128x32 OLED Display
+- 1x XIAO RP2040
+- 1x Case (2 3D Printed parts)
 
 ## Extras
 Making PCBs is insanely fun!!!!!!!!!!!!!!
