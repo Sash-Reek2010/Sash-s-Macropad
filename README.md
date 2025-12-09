@@ -18,9 +18,11 @@ This is my first time designing a model so im really happy with how it turned ou
 It has a tiny window for the XIAO RP2040 because it makes it look cooler! 
 
 ## The PCB
-I made the PCB in Kicad and it was really fun to make :3 <img width="779" height="668" alt="Screenshot 2025-12-08 211403" src="https://github.com/user-attachments/assets/28eb45f3-d129-4b3f-aa5f-5f885b50b54c" />
+I made the PCB in Kicad and it was really fun to make :3<img width="684" height="573" alt="Screenshot 2025-12-09 065138" src="https://github.com/user-attachments/assets/1b4bdac3-e20b-4aa8-9ed9-b723a6c8654f" />
+
 The Schematic!
-<img width="778" height="862" alt="Screenshot 2025-12-08 211334" src="https://github.com/user-attachments/assets/babfad41-36f9-4a93-b186-7dea48937e9f" />
+<img width="818" height="786" alt="Screenshot 2025-12-09 065118" src="https://github.com/user-attachments/assets/6c298d51-c5d6-4525-ad52-56ddfc9c24f2" />
+
 The PCB! I also included a silkscreen image of my favourite JJBA Character! Im really excited to see it in person!!!!!!
 
 ## BOM
